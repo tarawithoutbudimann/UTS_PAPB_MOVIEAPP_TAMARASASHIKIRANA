@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">filmticket</string>
+    <array name="PilihBioskop">
+        <item>-- Pilih Lokasi Bioskop --</item>
+        <item>Ambarukmo XXI</item>
+        <item>Sleman City Hall XXI</item>
+        <item>Transmart Maguwo CGV</item>
+        <item>Pakuwon Mall Jogja CGV</item>
+        <item>Jwalk Mall CGV</item>
+        <item>Lippo Plaza Jogja Cinepolis</item>
+        <item>Jogja City XXI</item>
+        <item>Empire XXI</item>
+    </array>
+    <array name="PilihSeat">
+        <item>-- Pilih Jenis Kursi --</item>
+        <item>SweetBox</item>
+        <item>Regular</item>
+        <item>Premium</item>
+    </array>
+    <array name="pay">
+        <item>-- Jenis Pembayaran --</item>
+        <item>Bank Transfer</item>
+        <item>E-Payment</item>
+    </array>
+    <array name="PilihPayment">
+        <item>-- Payment --</item>
+        <item>BRI</item>
+        <item>BNI</item>
+        <item>BCA</item>
+        <item>Mandiri</item>
+        <item>Dana</item>
+        <item>OVO</item>
+        <item>Shopeepay</item>
+        <item>Gopay</item>
+        <item>Seabank</item>
+        <item>BSI</item>
+        <item>LineBank</item>
+        <item>BPD</item>
+    </array>
+</resources>
